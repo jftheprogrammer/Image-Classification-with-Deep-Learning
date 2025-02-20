@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tensorflow
+pydantic
+sqlalchemy
+python-dotenv
+requests
+pillow
